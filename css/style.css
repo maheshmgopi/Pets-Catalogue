@@ -1,0 +1,18 @@
+html{
+    font-family: sans-serif;
+}
+h1{
+    color: #6d6767;
+    text-align: center;
+}
+h4{
+    color: #212056;;
+}
+li{
+    list-style-type: none;
+    padding-left: 5%;
+    color: #2e2952;
+}
+#container{
+    padding-left: 20px;
+}
